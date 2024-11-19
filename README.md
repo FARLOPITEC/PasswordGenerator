@@ -12,8 +12,6 @@ Este proyecto es un generador de contraseñas escrito en Python. Permite generar
    `git clone https://github.com/FARLOPITEC/PasswordGenerator.git`
 2. Navega al directorio del proyecto:  
    `cd PasswordGenerator`
-3. Instala las dependencias necesarias (si las hay):  
-   `pip install -r requirements.txt`
 ## Uso
 ### Interfaz Gráfica
 Ejecuta el script principal para iniciar la GUI:  
