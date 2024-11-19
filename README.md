@@ -9,7 +9,7 @@ Este proyecto es un generador de contraseñas escrito en Python. Permite generar
 - Python 3.x
 ## Instalación
 1. Clona el repositorio:  
-   `git clone https://github.com/QUIENTRAEHIEL0/PasswordGenerator.git`
+   `git clone https://github.com/FARLOPITEC/PasswordGenerator.git`
 2. Navega al directorio del proyecto:  
    `cd PasswordGenerator`
 3. Instala las dependencias necesarias (si las hay):  
